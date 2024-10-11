@@ -29,7 +29,9 @@
       </div>
     </header>
     <!-- Sessão com as informações da Vacina da Hepatite -->
-    <section>   
+    <section>
+      <h1 class="Tiv">Informações da Vacina</h1>
+      
       <div id="hepatite">
         <div>
           <h1>Hepatite A</h1>
