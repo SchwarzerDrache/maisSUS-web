@@ -31,7 +31,7 @@
         </div>
     </header>
     <section>
-        <h1>Agendamento de consulta</h1>
+        <h1 class="Tac">Agendamento de consulta</h1>
         <div class="conteudo">    
             
             <!-- lista de unidades -->
